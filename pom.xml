@@ -40,10 +40,11 @@
   </developers>
 
   <scm>
-    <connection>scm:svn:http://svn.codehaus.org/sonar-plugins/trunk/pam</connection>
-    <developerConnection>scm:svn:https://svn.codehaus.org/sonar-plugins/trunk/pam</developerConnection>
-    <url>scm:svn:https://svn.codehaus.org/sonar-plugins/trunk/pam</url>
+    <connection>scm:git:git@github.com:SonarCommunity/sonar-pam.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-pam.git</developerConnection>
+    <url>https://github.com/SonarCommunity/sonar-pam</url>
   </scm>
+
   <issueManagement>
     <system>JIRA</system>
     <url>http://jira.codehaus.org/browse/SONARPLUGINS/component/14697</url>
