@@ -6,7 +6,7 @@ The plugin works on *nix boxes with the Pluggable Authentication Module (PAM).
 Only password-checking is done against PAM. Authorization (access control) is still fully managed in SonarQube. 
 During the first authentication trial, if the password is correct, the SonarQube database is automatically populated with the new user.  The System administrator should assign the user to the desired groups in order to grant him necessary rights. If a password exists in the SonarQube database, it will be ignored because the external system password will override it.
 
-Download and Version information: http://update.sonarsource.org/plugins/XXXXXXXXXXXXXX.html
+Download and Version information: http://update.sonarsource.org/plugins/pam-confluence.html
 
 Requirements
 ============
