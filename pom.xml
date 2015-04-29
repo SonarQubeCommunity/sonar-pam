@@ -16,7 +16,7 @@
 
   <name>Sonar PAM plugin</name>
   <description>Allow Sonar to use PAM authentication on *nix box.</description>
-  <url>http://docs.codehaus.org/display/SONAR/PAM+Plugin</url>
+  <url>https://github.com/SonarCommunity/sonar-pam</url>
   <inceptionYear>2011</inceptionYear>
   <organization>
     <name>Freaknet</name>
