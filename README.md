@@ -26,7 +26,7 @@ Usage & Installation
  1. Download jpam for your system from http://jpam.sourceforge.net/
  2. Alternatively:
    * Copy the jpam's native library following http://jpam.sourceforge.net/documentation/getting_started.html
-    * Copy the jpam's native libray to `sonar/bin/<your arch>/lib`
+   * Or check `java.library.path` in `settings->system` info page anche copy jpam's native library to one of those directorys
 2. Install the plugin through the Update Center or download it into the `SONARQUBE_HOME/extensions/plugins` directory
 3. Make sure that at least one user with global administration role exists in SonarQube as well as in the external system
 4. Update the `SONARQUBE_HOME/conf/sonar.properties` file by adding the following lines:
