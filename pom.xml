@@ -16,7 +16,7 @@
 
   <name>Sonar PAM plugin</name>
   <description>Allow Sonar to use PAM authentication on *nix box.</description>
-  <url>https://github.com/SonarCommunity/sonar-pam</url>
+  <url>https://github.com/SonarQubeCommunity/sonar-pam</url>
   <inceptionYear>2011</inceptionYear>
   <organization>
     <name>Freaknet</name>
@@ -40,19 +40,15 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:SonarCommunity/sonar-pam.git</connection>
-    <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-pam.git</developerConnection>
-    <url>https://github.com/SonarCommunity/sonar-pam</url>
+    <connection>scm:git:git@github.com:SonarQubeCommunity/sonar-pam.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarQubeCommunity/sonar-pam.git</developerConnection>
+    <url>https://github.com/SonarQubeCommunity/sonar-pam</url>
   </scm>
 
   <issueManagement>
-    <system>JIRA</system>
-    <url>http://jira.codehaus.org/browse/SONARPLUGINS/component/14697</url>
+    <system>GitHub Issues</system>
+    <url>https://github.com/SonarQubeCommunity/sonar-pam/issues</url>
   </issueManagement>
-  <ciManagement>
-    <system>Bamboo</system>
-    <url>http://bamboo.ci.codehaus.org/browse/SONAR-PAM</url>
-  </ciManagement>
 
   <properties>
     <sonar.version>3.0</sonar.version>
