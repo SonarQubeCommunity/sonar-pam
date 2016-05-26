@@ -1,5 +1,6 @@
 PAM Authentication Plugin
 =========================
+[![Build Status](https://api.travis-ci.org/SonarQubeCommunity/sonar-pam.svg)](https://travis-ci.org/SonarQubeCommunity/sonar-pam)
 
 This plugin enables the delegation of SonarQube authentication to underlying PAM subsystem. 
 The plugin works on *nix boxes with the Pluggable Authentication Module (PAM).
